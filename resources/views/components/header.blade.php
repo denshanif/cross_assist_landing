@@ -2,8 +2,8 @@
     <div class="masthead-content container px-5">
         <div class="row d-flex justify-content-between align-items-center">
             <div class="col-md-8">
-                <h1 class="masthead-heading mb-0">Mau Bikin Website Murah dan Berkualitas?</h1>
-                <h2 class="masthead-subheading mb-0">Cross Assist, siap membantu anda!</h2>
+                <h1 class="masthead-heading mb-5">Butuh website <i>keren</i> untuk bisnis anda?</h1>
+                <h2 class="masthead-subheading mb-5">Cross Assist, siap membantu anda!</h2>
             </div>
             <div class="col-md-4">
                 <div class="floating-image-container">
@@ -11,11 +11,7 @@
                 </div>
             </div>
         </div>
-        <a class="btn btn-primary btn-xl rounded-pill mt-5" href="#scroll">Konsultasi Sekarang</a>
+        <a class="btn btn-primary btn-xl rounded-pill" href="#scroll">Konsultasikan Sekarang</a>
     </div>
-    <div class="bg-circle-1 bg-circle"></div>
-    <div class="bg-circle-2 bg-circle"></div>
-    <div class="bg-circle-3 bg-circle"></div>
-    <div class="bg-circle-4 bg-circle"></div>
 </header>
 
