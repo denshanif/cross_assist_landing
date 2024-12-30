@@ -3,7 +3,7 @@
         <div class="row d-flex justify-content-between align-items-center">
             <div class="col-md-8">
                 <h1 class="masthead-heading mb-5">Butuh website <i>keren</i> untuk bisnis anda?</h1>
-                <h2 class="masthead-subheading mb-5">Cross Assist, siap membantu anda!</h2>
+                <h2 class="masthead-subheading mb-5"><span class="text-subheading">Cross Assist</span>, siap membantu anda!</h2>
             </div>
             <div class="col-md-4">
                 <div class="floating-image-container">
@@ -11,7 +11,7 @@
                 </div>
             </div>
         </div>
-        <a class="btn btn-primary btn-xl rounded-pill" href="#scroll">Konsultasikan Sekarang</a>
+        <a class="btn btn-primary btn-lg rounded-pill" href="#contact">Konsultasi Sekarang</a>
     </div>
 </header>
 
