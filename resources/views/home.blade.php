@@ -7,9 +7,9 @@
 
     @include('components.services')
 
-    {{-- @include('components.about') --}}
+    @include('components.about')
 
-    {{-- @include('components.portfolio') --}}
+    @include('components.portfolio')
 
-    {{-- @include('components.contact') --}}
+    @include('components.contact')
 @endsection

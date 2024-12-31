@@ -1,38 +1,47 @@
-<section class="services py-5" id="services">
-    <div class="container px-5">
-        <div class="text-center mb-5">
-            <h1 class="section-title">Our Services</h1>
-            <p class="section-subtitle">Kami menyediakan solusi digital terbaik untuk kebutuhan Anda. Mulai dari pembuatan website hingga sistem informasi yang membantu bisnis Anda tumbuh lebih cepat!</p>
+<section class="section-padding mt-5" id="about">
+    <div class="container-xl">
+        <!-- Section Header -->
+        <div class="text-center mb-xl">
+            <h2 class="section-title">About Us</h2>
+            <p class="section-subtitle">Mitra digital terpercaya untuk kesuksesan bisnis Anda</p>
         </div>
-        <div class="row services-row">
-            <div class="col-lg-12">
-                <div class="card">
-                    <img class="card-img-top" src="{{ asset('assets/img/landing-page.png') }}" alt="Landing Page">
-                    <div class="card-body">
-                        <h5 class="card-title">Landing Page</h5>
-                        <p class="card-text">Ciptakan kesan pertama yang luar biasa dengan landing page yang dirancang khusus untuk menarik perhatian pelanggan Anda.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-12">
-                <div class="card">
-                    <img class="card-img-top" src="{{ asset('assets/img/company-profile.png') }}" alt="Company Profile">
-                    <div class="card-body">
-                        <h5 class="card-title">Company Profile</h5>
-                        <p class="card-text">Tingkatkan citra profesional bisnis Anda dengan website company profile yang elegan dan informatif.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-12">
-                <div class="card">
-                    <img class="card-img-top" src="{{ asset('assets/img/erp.png') }}" alt="ERP dan Sistem Informasi">
-                    <div class="card-body">
-                        <h5 class="card-title">Web ERP dan Sistem Informasi</h5>
-                        <p class="card-text">Optimalkan operasional bisnis Anda dengan sistem ERP berbasis web dan solusi digital lainnya yang dirancang khusus untuk efisiensi.</p>
+
+        <!-- About Content -->
+        <div class="grid">
+            <div class="card">
+                <div class="about-wrapper">
+                    <!-- Company Profile -->
+                    <div class="about-content text-center mt-5">
+                        <div class="logo-wrapper mb-lg">
+                            <img class="company-logo animate-float"
+                                 src="{{ asset('assets/img/logo.png') }}"
+                                 alt="Cross Assist - Digital Solution Partner">
+                        </div>
+
+                        <div class="content-box">
+                            <p class="text-body mb-xl p-3">
+                                Cross Assist hadir sebagai pionir solusi digital yang berdedikasi untuk mengakselerasi pertumbuhan bisnis Anda. Sejak 2023, kami telah membangun reputasi sebagai mitra teknologi terpercaya di Surabaya dengan visi menghadirkan inovasi digital untuk perkembangan bisnis Anda.
+                            </p>
+                        </div>
+
+                        <!-- Stats -->
+                        <div class="stats-grid">
+                            <div class="stat-item">
+                                <span class="stat-number text-gradient">10+</span>
+                                <span class="stat-label">Proyek Selesai</span>
+                            </div>
+                            <div class="stat-item">
+                                <span class="stat-number text-gradient">5+</span>
+                                <span class="stat-label">Klien Puas</span>
+                            </div>
+                            <div class="stat-item">
+                                <span class="stat-number text-gradient">24/7</span>
+                                <span class="stat-label">Dukungan Teknis</span>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
 </section>
-
